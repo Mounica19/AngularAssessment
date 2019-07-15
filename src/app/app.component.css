@@ -1,0 +1,12 @@
+table {
+    height: 480px;
+}
+.page-item.active .page-link{
+    background-color: crimson;
+    border-color: crimson
+}
+.thead-fixed th {
+    position: sticky;
+    top: 0;
+    background-color: crimson;
+}
